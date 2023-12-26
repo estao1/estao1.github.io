@@ -2,19 +2,34 @@ h1 {
     font-size: 5em;
 }
 
-img {
+#profile_picture {
     height: 300px;
     /* px,
     em, rem,
     %,
     in, cm,
     vh, vw */
+    border: solid;
+    padding: 10px;
+    margin: 20px;
+}
+
+.social-icon {
+    height: 50px;
+    
 }
 
 body {
-    background-color: cadetblue;
+    background-color: darkgray;
+    color: rgb(0, 15, 58);
+
 }
 
 div {
-    background-color: rgb(0, 115, 138);
+    background-color: rgb(70, 131, 144);
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
 }
