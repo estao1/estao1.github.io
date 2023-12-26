@@ -1,0 +1,20 @@
+h1 {
+    font-size: 5em;
+}
+
+img {
+    height: 300px;
+    /* px,
+    em, rem,
+    %,
+    in, cm,
+    vh, vw */
+}
+
+body {
+    background-color: cadetblue;
+}
+
+div {
+    background-color: rgb(0, 115, 138);
+}
